@@ -1,4 +1,4 @@
-someNumber = 10
+someNumber = -35
 
 if(someNumber > 0):
     print("Over zerro")
